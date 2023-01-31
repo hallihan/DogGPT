@@ -4,9 +4,7 @@
 ChatGPT is boring. I want a cat to answer my questions. So I built DogGPT! Actually, I forked https://github.com/woutervdijke/catgpt and did a search and replace...
 
 ## Demo
-Try DogGPT at [doggpt.wvd.io](https://catgpt.wvd.io)
-
-<img src="https://user-images.githubusercontent.com/15675775/215778138-072b609a-e282-46a4-b345-3f524a85765f.jpg" width="500" height="auto" />
+Try DogGPT at [https://hallihan.github.io/DogGPT/](https://hallihan.github.io/DogGPT/)
 
 ## How?
 The latest in pawtifurcial intelligence, DogGPT uses a grrrr-al network and an advanced tennisballgorithm to come up with natural-sounding responses.
@@ -26,7 +24,7 @@ I also let ChatGPT generate the first version of the JavaScript code, but needed
 In summary, the ChatGPT use case I see is to get a quick basic structure as a starting point for building a site.  But AI is not good at getting the site to do creative things.
 
 ### Some credits
-The airplane icon is from FontAwesome, the user avatar is from Iconsax. The site lives on Netlify, I use Counter.dev to get some statistics.
+The airplane icon is from FontAwesome, the user avatar is from Iconsax. The site lives on Github Pages.
 
-The cat in the image is called Teddy.
+The dog in the image is called Teddy.
 
